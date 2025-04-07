@@ -67,4 +67,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Acknowledgements
 
 *   The KJV OSIS XML file is sourced from the [open-bibles repository by seven1m](https://github.com/seven1m/open-bibles).
-*   [https://www.getivan.com](https://www.getivan.com)
+*   Designed by [Ivan](https://www.getivan.com), Made for [KJV Cards](https://www.kjv.cards).
